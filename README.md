@@ -37,8 +37,11 @@
 ## Como utilizar o projeto
 
 1 - git clone https://github.com/SandroAlmeidaDev/gostack-bootcamp-gobarber-web.git
+
 2 - cd gostack-bootcamp-gobarber-web
+
 3 - Instalar as dependências utilizando os comandos: yarn ou npm install
+
 4 - yarn start
 
 ![gobarber](https://user-images.githubusercontent.com/58606794/83960697-3e144a80-a862-11ea-9811-b594869207de.gif)
